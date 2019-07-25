@@ -1,0 +1,20 @@
+17d56d3 A small update to readme.
+ 1 file changed, 1 insertion(+)
+bd57941 Adding printf.
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+dab2950 Adding two numbers.
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+9fd2772 Renaming c and d.
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+18b82ba Removed a and b.
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+d2c4e3c Adding readme.txt
+ 1 file changed, 1 insertion(+)
+aafaa77 Adding four empty files.
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+9488279 Adding b variable.
+ 1 file changed, 1 insertion(+)
+7f0d0ae This is the second commit.
+ 1 file changed, 1 insertion(+)
+526e9fb This is the first commit.
+ 1 file changed, 1 insertion(+)
